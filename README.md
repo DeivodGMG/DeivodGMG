@@ -1,4 +1,4 @@
-- 👋 ¡Holaa! Mi nombre es David Ibarra, alias DeivodGMG y tengo 19 años.
+- 👋 ¡Hola! Mi nombre es David Ibarra, alias DeivodGMG y tengo 19 años.
 - 📫 Actualmente estudiando en la Universidad Politecnica de Victoria.
 - ✨ Mis hobbys favoritos son jugar videojuegos con amigos, aunque tambien me gustaria crear juegos en Roblox.
 - ❤️ De Mexico
