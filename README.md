@@ -13,7 +13,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=DeivodGMG&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 ## 🌐 My socials network:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linktr.ee/deivodgmg) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DeivodGMG) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@DeivodGMG) 
-
-  ## ❤️ If can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@deivodgmg) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@DeivodGMG) 
