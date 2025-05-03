@@ -2,7 +2,7 @@
 ---
 
 ## 💻 My languges and tool currently:
-![My Skills](https://skillicons.dev/icons?i=arch,cpp,docker,css,discord,git,github,html,nodejs,obsidian,py,vscode,perlin=7)
+![My Skills](https://skillicons.dev/icons?i=arch,cpp,docker,css,discord,git,github,html,nodejs,obsidian,py,vscode,flutter&perlin=7)
 
 ---
 
