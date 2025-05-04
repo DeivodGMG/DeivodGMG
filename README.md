@@ -12,7 +12,7 @@ My name is David, but you can call me Deivod. I'm studing English and a carrer.
 
 
 ## 💻 My languges and tool currently:
-![My Skills icons](https://skillicons.dev/icons?i=arch,cpp,docker,css,discord,git,github,html,nodejs,obsidian,py,java,lua,robloxstudio,godot,bash,vscode,&perline=9)
+![My Skills icons](https://skillicons.dev/icons?i=arch,cpp,docker,git,github,html,css,nodejs,py,java,lua,bash,vscode,obsidian,robloxstudio,godot,&perline=9)
 
 
 
