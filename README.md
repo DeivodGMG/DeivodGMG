@@ -7,7 +7,7 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">_**About me**_
 
 My name is David, but you can call me Deivod. I'm studing English and a carrer.
-- 🎯 My dream is to make my life in the USA
+- 🎯 I will learn English.
 - 💼 My favorite IDE is VS Code.
 - 🏝️ I like the videogames.
 
