@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello everyone! <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="28"/> Hello everyone! <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
 ![My-Banner](Banner-Github.png)
 
