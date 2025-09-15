@@ -14,7 +14,7 @@ My name is David, but you can call me Deivod. I'm studing English and a carrer.
 
 
 ## 💻 My languges and tool currently:
-![My Skills icons](https://skillicons.dev/icons?i=cpp,docker,git,github,html,css,py,java,lua,bash,vscode,obsidian,discord,robloxstudio,godot,&perline=9)
+![My Skills icons](https://skillicons.dev/icons?i=cpp,docker,git,github,html,css,lua,debian,vscode,notion,obsidian,discord,robloxstudio,&perline=9)
 
 
 
